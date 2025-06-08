@@ -8,7 +8,13 @@ const ProfileCard = () => {
 
 	return (
 		<div style={styles}>
-			<p>sisisi</p>
+			<h1>Profile Card</h1>
+			<p>
+				Lorem ipsum dolor sit, amet consectetur adipisicing elit. Temporibus
+				maiores error sapiente corporis accusantium consectetur deleniti quod
+				odio culpa repellat hic, laudantium quo, odit nostrum minus pariatur ex
+				eligendi nisi?
+			</p>
 		</div>
 	);
 };

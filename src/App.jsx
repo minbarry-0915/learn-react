@@ -1,12 +1,13 @@
-import './index.css';
-import ProfileCard from './components/ProfileCard';
-import IconComponent from './components/IconComponent';
+import CopyInput from './components/CopyInput';
+import Switcher from './components/Switcher';
+import TodoList from './components/TodoList';
+
 const App = () => {
 	return (
-		<section>
-			<ProfileCard />
-			<IconComponent />
-		</section>
+		<div>
+			<Switcher />
+		</div>
 	);
 };
+
 export default App;
